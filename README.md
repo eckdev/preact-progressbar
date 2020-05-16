@@ -2,7 +2,7 @@
 
 ## CLI Commands
 
-``` bash
+```bash
 # install dependencies
 npm install
 
@@ -10,7 +10,7 @@ npm install
 npm run dev
 
 # Usage
-
+```
 ```js
 
 import ProgressBar from 'preact_progress_bar';
