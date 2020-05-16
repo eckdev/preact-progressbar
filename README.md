@@ -9,14 +9,19 @@ npm install
 # serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
-npm run build
+# Usage
 
-# test the production build locally
-npm run serve
+```js
 
-# run tests with jest and preact-render-spy 
-npm run test
+import ProgressBar from 'preact_progress_bar';
+
+class OtherComponent extends React.Component {
+  render () {
+    return (
+      <div>
+        <ProgressBar continuousStart={true}></ProgressBar>
+      </div>
+    )
+  }
+}
 ```
-
-For detailed explanation on how things work, checkout the [CLI Readme](https://github.com/developit/preact-cli/blob/master/README.md).

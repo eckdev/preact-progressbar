@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "preact_progress_bar",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "scripts": {
     "build": "preact build",
@@ -30,8 +30,7 @@
   },
   "dependencies": {
     "preact": "^10.3.2",
-    "preact-render-to-string": "^5.1.4",
-    "preact-router": "^3.2.1"
+    "preact-render-to-string": "^5.1.4"
   },
   "repository": {
     "url": "https://github.com/eckdev/preact-progressbar.git",
