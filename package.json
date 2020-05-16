@@ -1,6 +1,6 @@
 {
-  "private": true,
-  "name": "progress_bar",
+  "private": false,
+  "name": "preact_progress_bar",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
