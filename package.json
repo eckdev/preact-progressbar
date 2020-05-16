@@ -33,6 +33,10 @@
     "preact-render-to-string": "^5.1.4",
     "preact-router": "^3.2.1"
   },
+  "repository": {
+    "url": "https://github.com/eckdev/preact-progressbar.git",
+    "type": "git"
+  },
   "jest": {
     "preset": "jest-preset-preact",
     "setupFiles": [

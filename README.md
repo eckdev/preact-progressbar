@@ -1,4 +1,4 @@
-# {{ name }}
+# preact progress bar
 
 ## CLI Commands
 
